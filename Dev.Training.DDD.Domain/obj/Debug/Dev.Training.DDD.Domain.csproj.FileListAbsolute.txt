@@ -1,0 +1,4 @@
+D:\Projetos\Pessoa\VS\Dev.Traning.DDD\Dev.Training.DDD.Domain\bin\Debug\Dev.Training.DDD.Domain.dll
+D:\Projetos\Pessoa\VS\Dev.Traning.DDD\Dev.Training.DDD.Domain\bin\Debug\Dev.Training.DDD.Domain.pdb
+D:\Projetos\Pessoa\VS\Dev.Traning.DDD\Dev.Training.DDD.Domain\obj\Debug\Dev.Training.DDD.Domain.dll
+D:\Projetos\Pessoa\VS\Dev.Traning.DDD\Dev.Training.DDD.Domain\obj\Debug\Dev.Training.DDD.Domain.pdb
