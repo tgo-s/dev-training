@@ -1,5 +1,0 @@
-D:\Projetos\Pessoa\VS\Dev.Traning.DDD\Dev.Training.DDD.Application\bin\Debug\Dev.Training.DDD.Application.dll
-D:\Projetos\Pessoa\VS\Dev.Traning.DDD\Dev.Training.DDD.Application\bin\Debug\Dev.Training.DDD.Application.pdb
-D:\Projetos\Pessoa\VS\Dev.Traning.DDD\Dev.Training.DDD.Application\obj\Debug\Dev.Training.DDD.Application.csprojResolveAssemblyReference.cache
-D:\Projetos\Pessoa\VS\Dev.Traning.DDD\Dev.Training.DDD.Application\obj\Debug\Dev.Training.DDD.Application.dll
-D:\Projetos\Pessoa\VS\Dev.Traning.DDD\Dev.Training.DDD.Application\obj\Debug\Dev.Training.DDD.Application.pdb
