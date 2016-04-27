@@ -10,15 +10,3 @@ D:\Projetos\Pessoa\VS\Dev.Traning.DDD\Dev.Training.DDD.Infrastructure.Data\bin\D
 D:\Projetos\Pessoa\VS\Dev.Traning.DDD\Dev.Training.DDD.Infrastructure.Data\obj\Debug\Dev.Training.DDD.Infrastructure.Data.csprojResolveAssemblyReference.cache
 D:\Projetos\Pessoa\VS\Dev.Traning.DDD\Dev.Training.DDD.Infrastructure.Data\obj\Debug\Dev.Training.DDD.Infrastructure.Data.dll
 D:\Projetos\Pessoa\VS\Dev.Traning.DDD\Dev.Training.DDD.Infrastructure.Data\obj\Debug\Dev.Training.DDD.Infrastructure.Data.pdb
-D:\Projetos\Pessoal\VS\Dev.Traning.DDD\Dev.Training.DDD.Infrastructure.Data\bin\Debug\Dev.Training.DDD.Infrastructure.Data.dll.config
-D:\Projetos\Pessoal\VS\Dev.Traning.DDD\Dev.Training.DDD.Infrastructure.Data\bin\Debug\Dev.Training.DDD.Infrastructure.Data.dll
-D:\Projetos\Pessoal\VS\Dev.Traning.DDD\Dev.Training.DDD.Infrastructure.Data\bin\Debug\Dev.Training.DDD.Infrastructure.Data.pdb
-D:\Projetos\Pessoal\VS\Dev.Traning.DDD\Dev.Training.DDD.Infrastructure.Data\bin\Debug\Dev.Training.DDD.Domain.dll
-D:\Projetos\Pessoal\VS\Dev.Traning.DDD\Dev.Training.DDD.Infrastructure.Data\bin\Debug\EntityFramework.dll
-D:\Projetos\Pessoal\VS\Dev.Traning.DDD\Dev.Training.DDD.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.dll
-D:\Projetos\Pessoal\VS\Dev.Traning.DDD\Dev.Training.DDD.Infrastructure.Data\bin\Debug\Dev.Training.DDD.Domain.pdb
-D:\Projetos\Pessoal\VS\Dev.Traning.DDD\Dev.Training.DDD.Infrastructure.Data\bin\Debug\EntityFramework.xml
-D:\Projetos\Pessoal\VS\Dev.Traning.DDD\Dev.Training.DDD.Infrastructure.Data\bin\Debug\EntityFramework.SqlServer.xml
-D:\Projetos\Pessoal\VS\Dev.Traning.DDD\Dev.Training.DDD.Infrastructure.Data\obj\Debug\Dev.Training.DDD.Infrastructure.Data.csprojResolveAssemblyReference.cache
-D:\Projetos\Pessoal\VS\Dev.Traning.DDD\Dev.Training.DDD.Infrastructure.Data\obj\Debug\Dev.Training.DDD.Infrastructure.Data.dll
-D:\Projetos\Pessoal\VS\Dev.Traning.DDD\Dev.Training.DDD.Infrastructure.Data\obj\Debug\Dev.Training.DDD.Infrastructure.Data.pdb

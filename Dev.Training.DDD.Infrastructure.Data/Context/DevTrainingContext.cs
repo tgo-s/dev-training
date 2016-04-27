@@ -9,7 +9,15 @@ namespace Dev.Training.DDD.Infrastructure.Data.Context
 {
     public class DevTrainingContext : DbContext
     {
-        public DevTrainingContext() : base("DevTrainingConnStr") { }
+        public DevTrainingContext() : base("DevTrainingConnStr")
+        {
+            /*
+             * Código copiado de: http://robsneuron.blogspot.com.br/2013/11/entity-framework-upgrade-to-6.html 
+             * Resolve o problema após adicionar Ninject.MVC e setar no RegisterServices os Binds
+             * Quando bind(ava) os repositórios ocorria o erro
+             */
+            var ensureDLLIsCopied = System.Data.Entity.SqlServer.SqlProviderServices.Instance;
+        }
 
         public DbSet<Cliente> Clientes { get; set; }
         public DbSet<Produto> Produtos { get; set; }

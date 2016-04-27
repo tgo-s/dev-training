@@ -35,6 +35,9 @@
     <Compile Include="EntityConfig\ProdutoConfiguration.cs" />
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Repositories\ClienteRepository.cs" />
+    <Compile Include="Repositories\ProdutoRepository.cs" />
+    <Compile Include="Repositories\RepositoryBase.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Dev.Training.DDD.Domain\Dev.Training.DDD.Domain.csproj">
@@ -42,9 +45,7 @@
       <Name>Dev.Training.DDD.Domain</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="Repositories\" />
-  </ItemGroup>
+  <ItemGroup />
   <ItemGroup>
     <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
       <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>

@@ -35,8 +35,8 @@ namespace Dev.Training.DDD.Domain.Entities
         #endregion
 
         #region Behavior
-        public bool IsClienteEspecial(Cliente cli) {
-            return cli.Ativo && (DateTime.Now.Year - cli.DataCadastro.Year >= 5);
+        public bool IsSpecialClient() {
+            return this.Ativo && (DateTime.Now.Year - this.DataCadastro.Year >= 5);
         }
         #endregion
     }

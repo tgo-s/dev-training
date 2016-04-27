@@ -40,7 +40,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AppServiceBase.cs" />
+    <Compile Include="ClienteAppService.cs" />
+    <Compile Include="Interfaces\IAppServiceBase.cs" />
+    <Compile Include="Interfaces\IClienteAppService.cs" />
+    <Compile Include="Interfaces\IProdutoAppService.cs" />
+    <Compile Include="ProdutoAppService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Dev.Training.DDD.Domain\Dev.Training.DDD.Domain.csproj">
+      <Project>{d7cc8d10-3daf-4360-8e1d-67bfd71544e3}</Project>
+      <Name>Dev.Training.DDD.Domain</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
